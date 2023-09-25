@@ -1,0 +1,17 @@
+body {
+	 background-color: #808000;
+  font-family: Futura;
+	 margin: 1rem auto;
+	 max-width: 80rem;
+}
+
+
+section{
+  
+  .tooltipext 
+}
+figure{
+  display:flex;
+  align-self: flex-start;
+position: sticky;
+top:3em;
